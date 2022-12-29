@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasharahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mubasharahmad" /> </p>
 
-- 🔭 I’m currently working on [School Management System with Mean Stack](https://github.com/MubasharAhmad/SMS-REACT-JS)
+- 🔭 I’m currently working on [doors.digital](https://github.com/doorsdigital/doors.digital.git)
 
 - 🌱 I’m currently learning **ML, AI, Compiler Construction**
 
 - 👯 I’m looking to collaborate on [Plone Volto](https://github.com/plone/volto)
 
-- 💬 Ask me about **React Js, Node Js, Javascript, Python, C++ and more**
+- 💬 Ask me about **React Js, Next js, Node Js, Javascript, Python, C++, c# and more**
 
 - 📫 How to reach me **mubasharahmadqadri@gmail.com**
 
