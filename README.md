@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasharahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mubasharahmad" /> </p>
 
-- 🔭 I’m currently working on [doors.digital](https://github.com/doorsdigital/doors.digital.git)
+- 🔭 I’m currently working on [N/A](#)
 
 - 🌱 I’m currently learning **ML, AI, Compiler Construction**
 
