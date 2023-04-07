@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [N/A](#)
 
-- 🌱 I’m currently learning **ML, AI, Compiler Construction**
+- 🌱 I’m currently learning **ML, AI, Cyber Security**
 
 - 👯 I’m looking to collaborate on [Plone Volto](https://github.com/plone/volto)
 
-- 💬 Ask me about **React Js, Next js, Node Js, Javascript, Python, C++, c# and more**
+- 💬 Ask me about **MERN stack, MEAN stack, React Js, Next js, Node Js, Javascript, Python, C++, c# and more**
 
-- 📫 How to reach me **mubasharahmadqadri@gmail.com**
+- 📫 How to reach me **devmubashar@gmail.com**
 
 - ⚡ Fun fact **I like to manage people, not time.**
 
