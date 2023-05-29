@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasharahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mubasharahmad" /> </p>
 
-- 🔭 I’m currently working on [N/A](#)
-
-- 🌱 I’m currently learning **ML, AI, Cyber Security**
-
-- 👯 I’m looking to collaborate on [Plone Volto](https://github.com/plone/volto)
+- 🌱 I’m currently learning **MANIM, AI, Threejs**
 
 - 💬 Ask me about **MERN stack, MEAN stack, React Js, Next js, Node Js, Javascript, Python, C++, c# and more**
 
