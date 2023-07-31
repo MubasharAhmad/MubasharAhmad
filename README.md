@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasharahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mubasharahmad" /> </p>
 
-- 🌱 I’m currently learning **Threejs, React Native, MANIM**
+- 🌱 I’m currently learning **Threejs**
 
 - 💬 Ask me about **MERN stack, MEAN stack, React Js, Next js, Node Js, Javascript, Python, C++, c# and more**
 
