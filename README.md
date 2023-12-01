@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **NLP, Compiler Construction and Information Retrieval**
 
-- 💬 Ask me about **MERN stack, MEAN stack, React JS, Next JS, Node JS, Javascript, Python, C++, c#, and more**
+- 💬 Ask me about **UI/UX, Nextjs, Reactjs, Design communication with Stackholders, and much more.**
 
 - 📫 How to reach me **devmubashar@gmail.com**
 
-- ⚡ Fun fact **I like to manage people, not time.**
+- ⚡ Fun fact **Approaching the end of life.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
