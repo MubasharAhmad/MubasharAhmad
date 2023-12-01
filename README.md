@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **UI/UX, Nextjs, Reactjs, Design communication with Stackholders, and much more.**
 
-- 📫 How to reach me **devmubashar@gmail.com**
+- 📫 How to reach me **devmubashar.com** or **devmubashar@gmail.com**
 
 - ⚡ Fun fact **Approaching the end of life.**
 
