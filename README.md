@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mubashar Ahmad</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h3 align="center">A passionate full stack developer from Earth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasharahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mubasharahmad" /> </p>
 
-- 🌱 I’m currently learning **NLP, Compiler Construction and Information Retrieval**
+- 🌱 I’m currently learning **Godot Engine**
 
-- 💬 Ask me about **UI/UX, Nextjs, Reactjs, Design communication with Stackholders, and much more.**
+- 💬 Ask me about **PhaserJS, Game Development, Nextjs, Reactjs, Design communication with Stackholders, and much more.**
 
 - 📫 How to reach me <a href="https://devmubashar.com" target="_blank">devmubashar.com</a> or **devmubashar@gmail.com**
 
