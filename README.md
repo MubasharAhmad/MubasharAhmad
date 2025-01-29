@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasharahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mubasharahmad" /> </p>
 
-- 🌱 I’m currently learning **Godot Engine and Blockchain Development**
+- 🌱 I’m currently learning **Quantum Computing**
 
 - 💬 Ask me about **PhaserJS, Game Development, Nextjs, Reactjs, Design communication with Stackholders, and much more.**
 
