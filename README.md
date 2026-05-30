@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Unity, PhaserJS, Game Development, Nextjs, Reactjs, Design communication with Stackholders, and much more.**
 
-- 📫 How to reach me <a href="https://devmubashar.com" target="_blank">devmubashar.netlify.app</a> or **devmubashar@gmail.com**
+- 📫 How to reach me <a href="https://devmubashar.com" target="_blank">devmubashar.com</a> or **devmubashar@gmail.com**
 
 - ⚡ Fun fact **Approaching the end of life.**
 
