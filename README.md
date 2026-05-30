@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasharahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mubasharahmad" /> </p>
 
-- 🌱 I’m currently learning **Quantum Computing**
+- 🌱 I’m currently learning **Blender**
 
-- 💬 Ask me about **PhaserJS, Game Development, Nextjs, Reactjs, Design communication with Stackholders, and much more.**
+- 💬 Ask me about **Unity, PhaserJS, Game Development, Nextjs, Reactjs, Design communication with Stackholders, and much more.**
 
-- 📫 How to reach me <a href="https://devmubashar.netlify.app" target="_blank">devmubashar.netlify.app</a> or **devmubashar@gmail.com**
+- 📫 How to reach me <a href="https://devmubashar.com" target="_blank">devmubashar.netlify.app</a> or **devmubashar@gmail.com**
 
 - ⚡ Fun fact **Approaching the end of life.**
 
