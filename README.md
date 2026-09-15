@@ -1,27 +1,247 @@
-<h1 align="center">Hi 👋, I'm Mubashar Ahmad</h1>
-<h3 align="center">A passionate full stack developer from The Earth</h3>
+<!-- ========================= -->
+<!--        PROFILE HEADER     -->
+<!-- ========================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasharahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mubasharahmad" /> </p>
+<div align="center">
 
-- 🌱 I’m currently learning **Blender**
+# 👋 Hi, I'm Mubashar Ahmad
 
-- 💬 Ask me about **Unity, PhaserJS, Game Development, Nextjs, Reactjs, Design communication with Stackholders, and much more.**
+### Full-Stack Developer • Game Developer • Interactive 3D Developer
 
-- 📫 How to reach me <a href="https://devmubashar.com" target="_blank">devmubashar.com</a> or **devmubashar@gmail.com**
+<a href="https://devmubashar.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Game+Developer;Next.js+%2B+React+%2B+TypeScript;Unity+%2B+Three.js+%2B+Phaser;Building+Interactive+Digital+Experiences;Currently+Learning+Blender" alt="Typing SVG" />
+</a>
 
-- ⚡ Fun fact **Approaching the end of life.**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mubashar-ahmad-71403820b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubashar-ahmad-71403820b" height="30" width="40" /></a>
-<a href="https://kaggle.com/mubasharahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mubasharahmad" height="30" width="40" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=mubasharahmad&label=PROFILE+VIEWS&color=00b8d9&style=for-the-badge" alt="Profile Views" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+</div>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mubasharahmad&show_icons=true&locale=en&theme=algolia" alt="mubasharahmad" /></p>
+---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mubasharahmad&&theme=algolia" alt="mubasharahmad" /></p>
+## 🚀 About Me
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubasharahmad&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mubasharahmad" /></p>
+```ts
+const mubashar = {
+  location: "Pakistan 🇵🇰",
+
+  roles: [
+    "Full-Stack Developer",
+    "Game Developer",
+    "Interactive 3D Developer"
+  ],
+
+  web: [
+    "Next.js",
+    "React",
+    "TypeScript",
+    "Node.js"
+  ],
+
+  gamesAnd3D: [
+    "Unity",
+    "Three.js",
+    "React Three Fiber",
+    "Phaser",
+    "Blender"
+  ],
+
+  backend: [
+    "PostgreSQL",
+    "Supabase",
+    "Drizzle ORM"
+  ],
+
+  currentlyLearning: "Advanced Blender & 3D workflows",
+
+  interests: [
+    "Web Games",
+    "3D Experiences",
+    "Game Development",
+    "AI-Assisted Development"
+  ]
+};
+```
+
+- 🎮 I build **browser games, Unity games, and interactive 3D experiences**
+- 💻 I develop modern full-stack applications using **Next.js, React & TypeScript**
+- 🌐 Portfolio: **[devmubashar.com](https://devmubashar.com)**
+- 🌱 Currently improving my **Blender and 3D art skills**
+- 🤖 Interested in **AI coding agents and AI-assisted development workflows**
+- 💼 Available for freelance development projects
+- 📫 Reach me at **devmubashar@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://devmubashar.com">
+  <img src="https://img.shields.io/badge/Portfolio-devmubashar.com-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/mubashar-ahmad-71403820b">
+  <img src="https://img.shields.io/badge/LinkedIn-Mubashar_Ahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:devmubashar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-devmubashar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://x.com/DevMubashar">
+  <img src="https://img.shields.io/badge/X-@DevMubashar-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://www.fiverr.com/mubasharahmad34">
+  <img src="https://img.shields.io/badge/Fiverr-mubasharahmad34-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+</a>
+
+<a href="https://kaggle.com/mubasharahmad">
+  <img src="https://img.shields.io/badge/Kaggle-mubasharahmad-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Web Development
+
+<div align="center">
+
+[![Web Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,html,css,tailwind,vite&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### 🎮 Game Development & 3D
+
+<div align="center">
+
+[![Game Skills](https://skillicons.dev/icons?i=unity,cs,threejs,blender&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Phaser_3-2D_Game_Engine-211F1F?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Three_Fiber-3D_Web-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/WebGL-Interactive_3D-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+
+</div>
+
+### 🗄️ Backend & Database
+
+<div align="center">
+
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000000" />
+<img src="https://img.shields.io/badge/Socket.IO-Real--Time-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+
+</div>
+
+### 🔧 Tools & Workflow
+
+<div align="center">
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,pnpm,windows&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+# 🎯 What I Build
+
+<div align="center">
+
+| 🌐 Full-Stack Web Apps | 🎮 Games | 🧊 Interactive 3D |
+| :---: | :---: | :---: |
+| Next.js applications | Browser games | Three.js experiences |
+| React interfaces | Unity games | React Three Fiber |
+| APIs & databases | Phaser games | WebGL content |
+| Authentication | Mobile games | Low-poly environments |
+| Real-time systems | Game mechanics | Blender assets |
+
+</div>
+
+---
+
+# 💡 Current Focus
+
+```text
+🎮 Game Development        ███████████████████░   95%
+💻 Full-Stack Development  ███████████████████░   95%
+🧊 Interactive 3D          █████████████████░░░   85%
+🎨 Blender / 3D Art        ████████████░░░░░░░░   60%
+🤖 AI Dev Workflows        ██████████████████░░   90%
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=mubasharahmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Mubashar Ahmad GitHub Stats" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=mubasharahmad&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Mubashar Ahmad GitHub Streak" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs?username=mubasharahmad&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top Languages" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mubasharahmad&theme=tokyo-night&hide_border=true&area=true&custom_title=Mubashar%20Ahmad's%20Contribution%20Graph" alt="Mubashar Ahmad Contribution Graph" />
+
+</div>
+
+---
+
+# 🧠 Development Philosophy
+
+<div align="center">
+
+> **"Build it. Break it. Improve it. Repeat."**
+
+I enjoy turning ideas into **working products**, whether that's a full-stack application,  
+a browser game, a multiplayer experience, or an interactive 3D world.
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Have an interesting project?
+
+I'm always interested in working on **games, web applications, interactive experiences and creative development projects.**
+
+<br/>
+
+<a href="mailto:devmubashar@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S_WORK_TOGETHER-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://devmubashar.com">
+  <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF" />
+</a>
+
+<br/><br/>
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
