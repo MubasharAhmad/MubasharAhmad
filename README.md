@@ -1,6 +1,6 @@
-<!-- ========================= -->
-<!--        PROFILE HEADER     -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                 MUBASHAR AHMAD PROFILE                  -->
+<!-- ====================================================== -->
 
 <div align="center">
 
@@ -8,19 +8,37 @@
 
 ### Full-Stack Developer • Game Developer • Interactive 3D Developer
 
-<a href="https://devmubashar.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Game+Developer;Next.js+%2B+React+%2B+TypeScript;Unity+%2B+Three.js+%2B+Phaser;Building+Interactive+Digital+Experiences;Currently+Learning+Blender" alt="Typing SVG" />
-</a>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Game+Developer;Next.js+%2B+React+%2B+TypeScript;Unity+%2B+Three.js+%2B+Phaser;Building+Interactive+3D+Experiences;Currently+Learning+Advanced+Blender"
+  alt="Typing Animation"
+/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mubasharahmad&label=PROFILE+VIEWS&color=00b8d9&style=for-the-badge" alt="Profile Views" />
+<a href="https://devmubashar.com">
+  <img src="https://img.shields.io/badge/Portfolio-devmubashar.com-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/mubashar-ahmad-71403820b">
+  <img src="https://img.shields.io/badge/LinkedIn-Mubashar_Ahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:devmubashar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=mubasharahmad&label=PROFILE+VIEWS&color=00b8d9&style=for-the-badge"
+  alt="Profile Views"
+/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```ts
 const mubashar = {
@@ -32,11 +50,11 @@ const mubashar = {
     "Interactive 3D Developer"
   ],
 
-  web: [
+  frontend: [
     "Next.js",
     "React",
     "TypeScript",
-    "Node.js"
+    "Tailwind CSS"
   ],
 
   gamesAnd3D: [
@@ -48,6 +66,7 @@ const mubashar = {
   ],
 
   backend: [
+    "Node.js",
     "PostgreSQL",
     "Supabase",
     "Drizzle ORM"
@@ -57,97 +76,88 @@ const mubashar = {
 
   interests: [
     "Web Games",
-    "3D Experiences",
+    "Interactive 3D",
     "Game Development",
-    "AI-Assisted Development"
+    "AI Coding Agents",
+    "Creative Development"
   ]
 };
 ```
 
-- 🎮 I build **browser games, Unity games, and interactive 3D experiences**
-- 💻 I develop modern full-stack applications using **Next.js, React & TypeScript**
-- 🌐 Portfolio: **[devmubashar.com](https://devmubashar.com)**
+- 🎮 I build **browser games, Unity games and interactive 3D experiences**
+- 💻 I develop modern applications using **Next.js, React & TypeScript**
+- 🧊 I enjoy creating **Three.js / React Three Fiber** experiences
 - 🌱 Currently improving my **Blender and 3D art skills**
-- 🤖 Interested in **AI coding agents and AI-assisted development workflows**
+- 🤖 Exploring **AI coding agents and AI-assisted development workflows**
 - 💼 Available for freelance development projects
-- 📫 Reach me at **devmubashar@gmail.com**
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://devmubashar.com">
-  <img src="https://img.shields.io/badge/Portfolio-devmubashar.com-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/mubashar-ahmad-71403820b">
-  <img src="https://img.shields.io/badge/LinkedIn-Mubashar_Ahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:devmubashar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-devmubashar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://x.com/DevMubashar">
-  <img src="https://img.shields.io/badge/X-@DevMubashar-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://www.fiverr.com/mubasharahmad34">
-  <img src="https://img.shields.io/badge/Fiverr-mubasharahmad34-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-</a>
-
-<a href="https://kaggle.com/mubasharahmad">
-  <img src="https://img.shields.io/badge/Kaggle-mubasharahmad-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-
-</div>
+- 🌐 Portfolio: **[devmubashar.com](https://devmubashar.com)**
+- 📫 Email: **devmubashar@gmail.com**
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Web Development
+## 🌐 Web Development
 
 <div align="center">
 
-[![Web Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,html,css,tailwind,vite&theme=dark)](https://skillicons.dev)
+<img
+  src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,html,css,tailwind,vite&theme=dark"
+  alt="Web Development Skills"
+/>
 
 </div>
 
-### 🎮 Game Development & 3D
+<br/>
+
+## 🎮 Game Development & 3D
 
 <div align="center">
 
-[![Game Skills](https://skillicons.dev/icons?i=unity,cs,threejs,blender&theme=dark)](https://skillicons.dev)
+<img
+  src="https://skillicons.dev/icons?i=unity,cs,threejs,blender&theme=dark"
+  alt="Game Development Skills"
+/>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Phaser_3-2D_Game_Engine-211F1F?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Three_Fiber-3D_Web-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-<img src="https://img.shields.io/badge/WebGL-Interactive_3D-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+<img src="https://img.shields.io/badge/Phaser_3-Game_Development-211F1F?style=for-the-badge&logo=javascript&logoColor=white" />
+
+<img src="https://img.shields.io/badge/React_Three_Fiber-Interactive_3D-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+
+<img src="https://img.shields.io/badge/WebGL-3D_Web-990000?style=for-the-badge&logo=webgl&logoColor=white" />
 
 </div>
 
-### 🗄️ Backend & Database
+<br/>
+
+## 🗄️ Backend & Database
 
 <div align="center">
 
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&theme=dark)](https://skillicons.dev)
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&theme=dark"
+  alt="Backend Skills"
+/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000000" />
+
 <img src="https://img.shields.io/badge/Socket.IO-Real--Time-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 
 </div>
 
-### 🔧 Tools & Workflow
+<br/>
+
+## 🔧 Tools & Workflow
 
 <div align="center">
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,pnpm,windows&theme=dark)](https://skillicons.dev)
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,pnpm,windows&theme=dark"
+  alt="Development Tools"
+/>
 
 </div>
 
@@ -157,15 +167,111 @@ const mubashar = {
 
 <div align="center">
 
-| 🌐 Full-Stack Web Apps | 🎮 Games | 🧊 Interactive 3D |
+| 🌐 Full-Stack Apps | 🎮 Games | 🧊 Interactive 3D |
 | :---: | :---: | :---: |
-| Next.js applications | Browser games | Three.js experiences |
-| React interfaces | Unity games | React Three Fiber |
-| APIs & databases | Phaser games | WebGL content |
-| Authentication | Mobile games | Low-poly environments |
-| Real-time systems | Game mechanics | Blender assets |
+| Next.js Applications | Browser Games | Three.js Experiences |
+| React Interfaces | Unity Games | React Three Fiber |
+| APIs & Databases | Phaser Games | WebGL |
+| Authentication Systems | Mobile Games | Low-Poly Worlds |
+| Real-Time Features | Game Mechanics | Blender Assets |
 
 </div>
+
+---
+
+# 🌟 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎮 3D Auto Shooter
+
+A browser-based low-poly 3D auto-shooter inspired by survival-style games.
+
+**Tech**
+
+`Three.js` `React` `TypeScript` `R3F`
+
+**Features**
+
+- Multiple enemy types
+- Weapon upgrades
+- Wave system
+- Coins and progression
+- Desktop & mobile controls
+
+🔗 **[Play Demo](https://autoshooter3d.netlify.app)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚔️ 10-Boss RPG
+
+A browser RPG featuring companion selection, boss battles, progression and persistent game state.
+
+**Tech**
+
+`Next.js` `PostgreSQL` `Drizzle ORM`
+
+**Features**
+
+- 10 boss battles
+- Companion system
+- Character progression
+- Store & upgrades
+- Persistent game state
+
+🔗 **[Play Demo](https://hackimon-red-team-edition.netlify.app)**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📚 Questudy
+
+An adaptive learning platform designed around skills, assessments and personalized learning paths.
+
+**Tech**
+
+`Next.js` `TypeScript` `PostgreSQL`
+
+**Features**
+
+- Textbook processing
+- Skill extraction
+- Assessments
+- Personalized learning
+- Multiple user roles
+
+🔗 **[Visit Questudy](https://questudy.online)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 My Portfolio
+
+My personal development portfolio showcasing web, game development and interactive projects.
+
+**Focus**
+
+`Web Development` `Games` `3D`
+
+<br/>
+
+🔗 **[Visit Portfolio](https://devmubashar.com)**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -175,8 +281,8 @@ const mubashar = {
 🎮 Game Development        ███████████████████░   95%
 💻 Full-Stack Development  ███████████████████░   95%
 🧊 Interactive 3D          █████████████████░░░   85%
-🎨 Blender / 3D Art        ████████████░░░░░░░░   60%
 🤖 AI Dev Workflows        ██████████████████░░   90%
+🎨 Blender / 3D Art        ████████████░░░░░░░░   60%
 ```
 
 ---
@@ -185,9 +291,17 @@ const mubashar = {
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=mubasharahmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Mubashar Ahmad GitHub Stats" />
+<img
+  width="49%"
+  src="https://github-stats-extended.vercel.app/api?username=mubasharahmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"
+  alt="Mubashar Ahmad GitHub Stats"
+/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=mubasharahmad&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Mubashar Ahmad GitHub Streak" />
+<img
+  width="49%"
+  src="./profile/streak.svg"
+  alt="Mubashar Ahmad GitHub Streak"
+/>
 
 </div>
 
@@ -195,17 +309,39 @@ const mubashar = {
 
 <div align="center">
 
-<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs?username=mubasharahmad&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top Languages" />
+<img
+  width="50%"
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=mubasharahmad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"
+  alt="Mubashar Ahmad Most Used Languages"
+/>
 
 </div>
 
+> **Note:** GitHub language statistics reflect the languages detected in public repositories and do not necessarily represent overall proficiency.
+
 ---
 
-# 📈 Contribution Activity
+# 🐍 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mubasharahmad&theme=tokyo-night&hide_border=true&area=true&custom_title=Mubashar%20Ahmad's%20Contribution%20Graph" alt="Mubashar Ahmad Contribution Graph" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile/github-snake.svg"
+  />
+
+  <img
+    alt="Mubashar Ahmad GitHub Contribution Snake"
+    src="./profile/github-snake.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
@@ -215,10 +351,38 @@ const mubashar = {
 
 <div align="center">
 
-> **"Build it. Break it. Improve it. Repeat."**
+### `"Build it. Break it. Improve it. Repeat."`
 
-I enjoy turning ideas into **working products**, whether that's a full-stack application,  
-a browser game, a multiplayer experience, or an interactive 3D world.
+I enjoy turning ideas into **working products** — whether that's a full-stack application,  
+a browser game, a multiplayer experience or an interactive 3D world.
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://devmubashar.com">
+  <img src="https://img.shields.io/badge/Portfolio-devmubashar.com-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/mubashar-ahmad-71403820b">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:devmubashar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://x.com/DevMubashar">
+  <img src="https://img.shields.io/badge/X-@DevMubashar-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://www.fiverr.com/mubasharahmad34">
+  <img src="https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+</a>
 
 </div>
 
@@ -226,9 +390,9 @@ a browser game, a multiplayer experience, or an interactive 3D world.
 
 <div align="center">
 
-### 🤝 Have an interesting project?
+## 🤝 Have an interesting project?
 
-I'm always interested in working on **games, web applications, interactive experiences and creative development projects.**
+I'm interested in working on **games, web applications, interactive experiences and creative development projects.**
 
 <br/>
 
@@ -242,6 +406,8 @@ I'm always interested in working on **games, web applications, interactive exper
 
 <br/><br/>
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
+
+<sub>Building web experiences, games and interactive worlds one project at a time.</sub>
 
 </div>
